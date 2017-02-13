@@ -2,7 +2,7 @@
 
 There are two options how you can prepare that environment:
 
-+ By importing distributed by Oracle Virtual Box image. Contact your local oracle representative or Maciej.Gruszka@oracle.com
++ By importing distributed by Oracle Virtual Box image. Contact your local oracle representative or george.moykin@oracle.com
 + By creation your own nevironment
 
 #### How to create own environment ###
