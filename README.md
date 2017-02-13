@@ -6,7 +6,7 @@
 
 Oracle Cloud is the industry’s broadest and most integrated public cloud. It offers best-in-class services across software as a service (SaaS), platform as a service (PaaS), and infrastructure as a service (IaaS), and even lets you put Oracle Cloud in your own data center. Oracle Cloud helps organizations drive innovation and business transformation by increasing business agility, lowering costs, and reducing IT complexity. The workshop content shows different aspects of Application Development in the cloud with different set of Oracle Cloud Services.
 
-### Prerequisites for Hands-on Tutorials ###
+### Prerequisites for Hands-on Labs ###
 
 The workshop is intended to work with an Oracle PaaS trial account. To get an account look into [here](common/request.for.trial.md). When [Sign In to Oracle Cloud](common/sign.in.to.oracle.cloud.md) get your account details ready to replace the values below with yours when it is required:
 
@@ -16,6 +16,8 @@ The workshop is intended to work with an Oracle PaaS trial account. To get an ac
 
 NOTE: Before you start to use your new Oracle Public Cloud services make sure that the replication policy has been set for your account. Otherwise you can not create storage container which is necessary for most of the services. See [Selecting a Replication Policy for Oracle Storage Cloud Service](https://docs.oracle.com/en/cloud/iaas/storage-cloud/cssto/selecting-replication-policy-your-service-instance.html).
 
+For some of the Labs an [on-premise environment is needed](../common/vbox.vm.md)
+
 ### Important ###
 
 During the hands-on execution you will create several public cloud service instances what will be available on the world wide web. Even if these instances are for demo purposes keep in mind it is not a best practice to use weak or known (stored here in the tutorial) passwords especially in such open environment. Thus this workshop content does not recommend any password so you need to define those. You will be asked to provide password at certain points and please remember them  for  later usage.
@@ -24,7 +26,7 @@ The content contains several independent modules that cover different aspects of
 
 ----
 
-## List of Hands-on Tutorials ##
+## List of Hands-on Labs ##
 
 
 #### Continuous Integration, Continuous Delivery and Microservices with Oracle Developer Cloud Service, Oracle Application Container Cloud Service, Eclipse and Git ####
