@@ -16,7 +16,7 @@ The workshop is intended to work with an Oracle PaaS trial account. To get an ac
 
 NOTE: Before you start to use your new Oracle Public Cloud services make sure that the replication policy has been set for your account. Otherwise you can not create storage container which is necessary for most of the services. See [Selecting a Replication Policy for Oracle Storage Cloud Service](https://docs.oracle.com/en/cloud/iaas/storage-cloud/cssto/selecting-replication-policy-your-service-instance.html).
 
-For some of the Labs an [on-premise environment is needed](../common/vbox.vm.md)
+For some of the Labs an [on-premise environment is needed](common/vbox.vm.md)
 
 ### Important ###
 
