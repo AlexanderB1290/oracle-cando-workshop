@@ -1,10 +1,12 @@
 ## On premise environment needed for some of the Labs ##
 
 **Oracle Virtual Box image**
+
 Some of the Labs are supported by an Oracle Virtual Box image. 
 Contact your local oracle representative or george.moykin@oracle.com to obtain a copy of the Oracle CanDo VBox image distributive.
 
 **Eclipse IDE with Oracle Cloud Tools plugin**
+
 You need Eclipse IDE with Oracle Cloud Tools plugin or Oracle Enterprise Plugin for Eclipse installed either:
     + by importing distributed by Oracle Virtual Box image
     + or by installing Eclipse IDE with Oracle Cloud Tools plugin or Oracle Enterprise Plugin for Eclipse into your local system
