@@ -130,7 +130,7 @@ Click **Save**.
 
 ### Build and deploy the sample application ###
 
-To initiate a deployment to Application Container Cloud Service now there are two options. You can Start deployment process using the newly created Deployment configuration. Click gear icon and select **Start**.
+To initiate a deployment to Application Container Cloud Service you can Start deployment process using the newly created Deployment configuration. Click gear icon and select **Start**.
 
 ![alt text](images/14.deploy.start.png "Deployment Start")
 
