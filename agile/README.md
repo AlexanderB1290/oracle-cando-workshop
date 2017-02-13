@@ -14,7 +14,7 @@ This tutorial shows how to use the Issue and Agile tabs of Oracle Developer Clou
 
 ### Prerequisites ###
 
-- [Create and Deploy a SpringBoot Microservice with Developer Cloud Service & Application Container Cloud Service](springboot-sample/README.md)
+- [Create and Deploy a SpringBoot Microservice with Developer Cloud Service & Application Container Cloud Service](../springboot-sample/README.md)
 
 ----
 
