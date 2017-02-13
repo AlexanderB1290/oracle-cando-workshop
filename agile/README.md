@@ -25,7 +25,7 @@ Sign in to [https://cloud.oracle.com/sign-in](https://cloud.oracle.com/sign-in).
 
 Log in to Oracle Developer Cloud Services and open your springboot-sample project.
 
-![](20.open.devcs.project.png)
+![](../springboot-sample/images/20.open.devcs.project.png)
 
 To develop your project using Agile methodology, follow the instruction in the tutorial [Using Agile Methodology in Oracle Developer Cloud Service](http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/developer/AgileDevelopment/AgileDevelopment.html).
 
