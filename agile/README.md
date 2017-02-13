@@ -21,11 +21,11 @@ This tutorial shows how to use the Issue and Agile tabs of Oracle Developer Clou
 #### Use the Agile methodology in your SpringBoot project ####
 
 Sign in to [https://cloud.oracle.com/sign-in](https://cloud.oracle.com/sign-in). First select your datacenter then provide the identity domain and credentials. After a successful login you will see your Dashboard. Find the Developer services tile and click the hamburger icon. In the dropdown menu click **Open Service Console**.
-![](../images/01.dashboard.png)
+![](../springboot-sample/images/01.dashboard.png)
 
 Log in to Oracle Developer Cloud Services and open your springboot-sample project.
 
-![](../images/20.open.devcs.project.png)
+![](20.open.devcs.project.png)
 
 To develop your project using Agile methodology, follow the instruction in the tutorial [Using Agile Methodology in Oracle Developer Cloud Service](http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/developer/AgileDevelopment/AgileDevelopment.html).
 
