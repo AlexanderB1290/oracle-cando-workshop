@@ -62,9 +62,22 @@ Enter or copy the *https://github.com/gmoykin/springboot-sample.git* repository 
 
 Now click **Finish** to create the project and to clone the specified repository.
 
+
+#### Review the created Oracle Developer Cloud Service project ####
+
+Once the project provisioning is ready let's review the basic details.
+Click on the **springboot-sample** project name to open the project workspace.
+
+![](../springboot-sample/images/20.open.devcs.project.png)
+
+Select **Code** item on the left side menu to observe the project code.
+
+Select other items on the left side menu to observe their purpose. 
+
+
 ### Configure build job for Spring Boot sample application ###
 
-Once the project provisioning is ready let's create the build job to compile and package the sample Spring Boot application to the desired format for Application Container Cloud Services.
+Let's create the build job to compile and package the sample Spring Boot application to the desired format for Application Container Cloud Services.
 
 Select **Build** item on the left side menu and click the **New Job** button.
 
