@@ -24,13 +24,13 @@ This tutorial demonstrates how to:
 
 ### Prerequisites ###
 
-+ [Create and Deploy a SpringBoot Microservice with Developer Cloud Service & Application Container Cloud Service](springboot-sample/README.md)
++ [Create and Deploy a SpringBoot Microservice with Developer Cloud Service & Application Container Cloud Service](../springboot-sample/README.md)
 + You have configured a Build for the springboot-sample app based on SCM polling schedule
 + (Optional) You have configured a Deploy configuration with Automatic deployment of springboot-sample app to Application Container Cloud Service
 + You need Eclipse IDE with Oracle Cloud Tools plugin or Oracle Enterprise Plugin for Eclipse installed either by:
     + importing distributed by Oracle Virtual Box image CaNDO.v01.ova into your local system
     + or by installing Eclipse IDE with Oracle Cloud Tools plugin or Oracle Enterprise Plugin for Eclipse into your local system
-+ (Optional) You are familiar how to use the [Agile Methodology in Oracle Developer Cloud Service](agile/README.md)  
++ (Optional) You are familiar how to use the [Agile Methodology in Oracle Developer Cloud Service](../agile/README.md)  
 
 
 ### Steps ###
