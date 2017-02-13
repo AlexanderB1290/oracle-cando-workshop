@@ -1,4 +1,4 @@
-## On premise environment needed for some of the Labs ##
+## On-premise environment needed for some of the Labs ##
 
 **Oracle Virtual Box image**
 
