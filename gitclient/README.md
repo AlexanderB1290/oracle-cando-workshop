@@ -11,10 +11,10 @@ This tutorial shows how to use a Git client with Oracle Developer Cloud Service 
 
 ### Prerequisites ###
 
-- You have [created and deployed a SpringBoot Microservice with Developer Cloud Service & Application Container Cloud Service](springboot-sample/README.md)
+- You have [created and deployed a SpringBoot Microservice with Developer Cloud Service & Application Container Cloud Service](../springboot-sample/README.md)
 - You have configured a Build for the springboot-sample app based on SCM polling schedule
 - (Optional) You have configured a Deploy configuration with Automatic deployment of springboot-sample app to Application Container Cloud Service 
-- (Optional) You are familiar how to use the [Agile Methodology in Oracle Developer Cloud Service](agile/README.md) 
+- (Optional) You are familiar how to use the [Agile Methodology in Oracle Developer Cloud Service](../agile/README.md) 
 
 ----
 
