@@ -141,7 +141,7 @@ You can check the deployment result on the **Deploy** page. Once the deploy is r
 
 ### Access the sample application ###
 
-On the Dashboard of your Oracle Cloud services, click on the Application Container service and click **Open Services Console**. You should see your Spring Boot sample application in the list. Click the application's URL to test.
+On the Dashboard of your Oracle Cloud services, click on the Application Container service and click **Open Service Console**. You should see your Spring Boot sample application in the list. Click the application's URL to test.
 
 ![alt text](images/17.accs.console.png "ACCS Console")
 
