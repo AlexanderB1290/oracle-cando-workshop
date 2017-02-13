@@ -112,12 +112,12 @@ Please note the build job contains an extra build step which packs the default a
 
 ### Configure Application Container Cloud service deployment ###
 
-Now create deployment configuration which enable direct deployment to Application Container Cloud services after a successful build job.
+Now create deployment configuration which enable direct deployment to Application Container Cloud Service (ACCS) after a successful build job.
 Change to **Deploy** page in DevCS and create **New Configuration** 
 
 ![alt text](images/11.new.deploy.png "New deploy configuration")
 
-Set the following properties.
+Set the following properties according to your Oracle Cloud services account:
 ![alt text](images/12.deploy.config.png "Deployment Configuration")
 
 - **Configuration Name**: any name to identify deployment configuration
@@ -134,11 +134,7 @@ To initiate a deployment to Application Container Cloud Service now there are tw
 
 ![alt text](images/14.deploy.start.png "Deployment Start")
 
-Other option is to fire a new Build Job execution which will deploy artifact after a successfull build. Go back to **Build** page and click the wrench icon belongs to Spring Boot sample application build job.
-
-![alt text](images/15.build.now.png "Build Now") 
-
-Both way deploys Spring Boot sample application on Application Container Cloud Service. You can check the deployment result on the **Deploy** page. Once the deploy is ready (this may take a while) click the **Deploy to ACCS** link.
+You can check the deployment result on the **Deploy** page. Once the deploy is ready (this may take a while) click the **Deploy to ACCS** link.
 
 ![alt text](images/16.deploy.ready.png "Deploy ready")
 
