@@ -17,8 +17,9 @@ This tutorial demonstrates how to:
 
 ### Prerequisites ###
 
-- Provided VirtualBox image or [custom environment prepared](../common/vbox.vm.md) for this tutorial.
+- [On-premises environment prepared](../common/vbox.vm.md) for this tutorial.
 - Running and "empty" [Database Cloud Service](../dbcs-create/README.md) instance which has no Java Cloud Services dependency.
+- (Optional) In order to avoid the Breach Quota Violation message by exceeding the Resource Quotas for your Cloud Identity Domain, you may delete all JCS instances and ACCS applications if you have created any so far.
 
 ### Steps ###
 
