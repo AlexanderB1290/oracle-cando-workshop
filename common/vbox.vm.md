@@ -9,7 +9,7 @@ Contact your local oracle representative or george.moykin@oracle.com to obtain a
 
 You need Eclipse IDE with Oracle Cloud Tools plugin or Oracle Enterprise Plugin for Eclipse installed either:
 + by importing distributed by Oracle Virtual Box image
-+ or by installing Eclipse IDE with Oracle Cloud Tools plugin or Oracle Enterprise Plugin for Eclipse into your local system
++ or by installing Eclipse IDE with Oracle Cloud Tools plugin or Oracle Enterprise Plugin for Eclipse (OEPE) into your local system
 
 You can download the Eclipse IDE from [http://www.eclipse.org/](http://www.eclipse.org/) and OEPE from [http://www.oracle.com/technetwork/developer-tools/eclipse/downloads/index.html](http://www.oracle.com/technetwork/developer-tools/eclipse/downloads/index.html).
 
