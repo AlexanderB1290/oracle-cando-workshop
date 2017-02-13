@@ -21,11 +21,11 @@ This tutorial shows how to use a Git client with Oracle Developer Cloud Service 
 #### Continuous build integration using Git client with Oracle Developer Cloud Service and Application Container Cloud Service ####
 
 Sign in to [https://cloud.oracle.com/sign-in](https://cloud.oracle.com/sign-in). First select your datacenter then provide the identity domain and credentials. After a successful login you will see your Dashboard. Find the Developer services tile and click the hamburger icon. In the dropdown menu click **Open Service Console**.
-![](images/01.dashboard.png)
+![](../springboot-sample/images/01.dashboard.png)
 
 Log in to Oracle Developer Cloud Services and open your springboot-sample project.
 
-![](images/20.open.devcs.project.png)
+![](../springboot-sample/images/20.open.devcs.project.png)
 
 
 During the steps below you can play and improvise with Agile methodology in Developer Cloud Services according to your activities on the springboot-sample project.
