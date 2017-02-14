@@ -51,3 +51,26 @@ The content contains several independent modules that cover different aspects of
 
 
 ---
+---
+
+
+## Additional Content and Materials ##
+
+**Oracle Developer Cloud Service**
++ [Cloud page](https://cloud.oracle.com/en_US/developer-service)
++ [Tutorials](https://cloud.oracle.com/en_US/developer-service/tutorials)
++ [Docs & tutorials](http://docs.oracle.com/en/cloud/paas/developer-cloud/tutorials.html)
+
+**Oracle Application Container Cloud Service**
++ [Cloud page](https://cloud.oracle.com/en_US/application-container-cloud)
++ [Docs & tutorials](http://docs.oracle.com/en/cloud/paas/app-container-cloud/index.html)
+
+**Oracle Java Cloud Service**
++ [Cloud page](https://cloud.oracle.com/en_US/java)
++ [Docs & tutorials](http://docs.oracle.com/en/cloud/paas/java-cloud/tutorials.html)
+
+**Oracle Cloud Platform (PaaS)**
++ [Cloud page](https://cloud.oracle.com/en_US/paas)
++ [Docs](http://docs.oracle.com/en/cloud/paas/index.html)
+
+---
