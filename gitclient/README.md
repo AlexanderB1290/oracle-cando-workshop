@@ -49,7 +49,8 @@ Below is an example with Git Shell:
 
 On your *springboot-sample* project in Developer Cloud Services, observe the results in the Build and Deploy pages
 
+---
 
-
+For additional samples about JSE, Node.JS and PHP microservices, refer the Tutorials section on the [Oracle Application Container Cloud Service Documentation](http://docs.oracle.com/en/cloud/paas/app-container-cloud/index.html)
 
 
