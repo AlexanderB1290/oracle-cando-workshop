@@ -330,11 +330,11 @@ The script is re-runnable. In case of failure try to fix the parameter or other 
 In case on the shell screen you see an error message containing something like *" petstore.sql no such file or folder "* then do the following:
 + edit the file /u01/content/cloud-native-devops-workshop/app-2-cloud/prepareDBCS.sh by modifying the line:
 
-		scp -oStrictHostKeyChecking=no -i ${sshkey} sql/create_user.sh sql/create_user.sql ../dpct/petstore.sql oracle@${ipaddress}:~
+*scp -oStrictHostKeyChecking=no -i ${sshkey} sql/create_user.sh sql/create_user.sql ../dpct/petstore.sql oracle@${ipaddress}:~*
 
 to be:
 	
-	scp -oStrictHostKeyChecking=no -i ${sshkey} sql/create_user.sh sql/create_user.sql /u01/content/cloud-native-devops-workshop/dpct/sql/petstore.sql oracle@${ipaddress}:~
+	scp -oStrictHostKeyChecking=no -i ${sshkey} sql/create_user.sh sql/create_user.sql ../dpct/sql/petstore.sql oracle@${ipaddress}:~
 
 + save the file
 + run the script ./prepareDBCS.sh again
