@@ -67,7 +67,8 @@ After your credentials have been validated, you are logged in to Oracle Develope
 
 **NOTE:** 
 If you are not in Oracle VPN Network then don't set the Oracle Proxy ON!
-If the Oracle Cloud plugin displays on *Fetching* for a long time, then most likely for some reason the Oracle Proxy is set. To 	resolve this you have to remove/disable the Oracle Proxy either manually - in the Network Wired Settings and in the Eclipse settings, or by running the script: `. ${CONTENT_DIR}/control/bin/removeOracleProxy.sh`
+If the Oracle Cloud plugin displays on *Fetching* for a long time, then most likely for some reason the Oracle Proxy is set. To 	resolve this you have to remove/disable the Oracle Proxy either manually - in the Network Wired Settings and in the Eclipse settings, or by running the script: 
+`. ${CONTENT_DIR}/control/bin/removeOracleProxy.sh`
 
 
 Oracle Cloud view displays all projects that are assigned to you. 
