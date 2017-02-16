@@ -66,9 +66,7 @@ Provide a master password to store securely your credentials, so in the future y
 After your credentials have been validated, you are logged in to Oracle Developer Cloud Service and the Oracle Cloud view displays all projects that are assigned to you. 
 
 **NOTE:** 
-If you are not in Oracle VPN Network then don't set the Oracle Proxy ON!
-If the Oracle Cloud plugin displays on *Fetching* for a long time, then most likely for some reason the Oracle Proxy is set. To 	resolve this you have to remove/disable the Oracle Proxy either manually - in the Network Wired Settings and in the Eclipse settings, or by running the script: 
-`. ${CONTENT_DIR}/control/bin/removeOracleProxy.sh`
+If you are not in Oracle VPN Network then don't set the Oracle Proxy ON! If Oracle Cloud plugin hangs on *Fetching* for a long time, then most likely the Oracle Proxy is set. To resolve this you have to disable the Oracle Proxy either: manually in Network and Eclipse settings; or by running the script `. ${CONTENT_DIR}/control/bin/removeOracleProxy.sh`
 
 
 Oracle Cloud view displays all projects that are assigned to you. 
