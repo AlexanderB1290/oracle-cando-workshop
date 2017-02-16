@@ -35,17 +35,17 @@ On your springboot-sample project, in the Project page, within the REPOSITORIES 
 
 Clone your newly created springboot-sample.git Git repository hosted on DevCS to your local machine using basic or your favourite Git tool. 
 Below is an example with Git Shell:
-    
-> cd {path_to_your_local_Git_repo_folder}		
-> git clone https://{YourDevCSProjectURI}/springboot-sample.git 
+
+`cd {path_to_your_local_Git_repo_folder}`		
+`git clone https://{YourDevCSProjectURI}/springboot-sample.git `
 
 Make some changes in the code. For example, edit the file:
- > src\main\webapp\WEB-INF\views\welcome.jsp
+`src\main\webapp\WEB-INF\views\welcome.jsp`
 
 Push changes to DevCS remote springboot-sample repo (master). 
 Below is an example with Git Shell:
-> git commit -am "Edited welcome.jsp page"		
-> git push -u origin master
+`git commit -am "Edited welcome.jsp page"`		
+`git push -u origin master`
 
 On your *springboot-sample* project in Developer Cloud Services, observe the results in the Build and Deploy pages
 
