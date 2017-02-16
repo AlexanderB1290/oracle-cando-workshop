@@ -66,10 +66,9 @@ Provide a master password to store securely your credentials, so in the future y
 After your credentials have been validated, you are logged in to Oracle Developer Cloud Service and the Oracle Cloud view displays all projects that are assigned to you. 
 
 **NOTE:** 
-If you are not in Oracle VPN Network then DO NOT set the Oracle Proxy ON!
-If the Oracle Cloud plugin displays on *Fetching* for a long time, then most likely for some reason the Oracle Proxy is set. To 	resolve this you have to remove/disable the Oracle Proxy in the Network Wired Settings and in the Eclipse settings:
-+ for the Network: set the *Network -> Wired Settings -> Network proxy* either None or Automatic
-+ for the Eclipse: navigate to *Window -> Preferences* then type *proxy* in the search and then for *Network Connections -> Active Provider* select Direct or just clear the Oracle Proxy settings for HTTP & HTTPS ) ! 
+If you are not in Oracle VPN Network then don't set the Oracle Proxy ON!
+If the Oracle Cloud plugin displays on *Fetching* for a long time, then most likely for some reason the Oracle Proxy is set. To 	resolve this you have to remove/disable the Oracle Proxy either manually - in the Network Wired Settings and in the Eclipse settings, or by running the script: `. ${CONTENT_DIR}/control/bin/removeOracleProxy.sh`
+
 
 Oracle Cloud view displays all projects that are assigned to you. 
 Open the tree view myOracle Cloud(Cloud connection name) -> Developer -> springboot(DevCS project name) -> Code and there you can see the Git repository hosted on Oracle Developer Cloud Service.
