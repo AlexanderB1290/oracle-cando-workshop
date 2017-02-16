@@ -134,17 +134,21 @@ To initiate a deployment to Application Container Cloud Service you can Start de
 
 ![alt text](images/14.deploy.start.png "Deployment Start")
 
-You can check the deployment result on the **Deploy** page. Once the deploy is ready (this may take a while) click the **Deploy to ACCS** link.
+
+### Access the sample application ###
+
++ **From Developer Cloud Service**
+You can check the deployment result on the **Deploy** page. Once the deploy is ready (this may take a while) click the link next to **Deploy to ACCS**
 
 ![alt text](images/16.deploy.ready.png "Deploy ready")
 
 
-### Access the sample application ###
-
++ **From Application Container Cloud Service**
 On the Dashboard of your Oracle Cloud services, click on the Application Container service and click **Open Service Console**. You should see your Spring Boot sample application in the list. Click the application's URL to test.
 
 ![alt text](images/17.accs.console.png "ACCS Console")
 
-The Spring Boot sample application main page should look like this.
+
+After accessing the Spring Boot sample application main page, you shall see in the browser:
 
 ![alt text](images/18.sample.app.png "Sample Application")
