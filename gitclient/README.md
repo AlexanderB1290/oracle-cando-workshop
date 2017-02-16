@@ -20,13 +20,13 @@ This tutorial shows how to use a Git client with Oracle Developer Cloud Service 
 
 #### Continuous build integration using Git client with Oracle Developer Cloud Service and Application Container Cloud Service ####
 
-Sign in to [https://cloud.oracle.com/sign-in](https://cloud.oracle.com/sign-in). First select your datacenter then provide the identity domain and credentials. After a successful login you will see your Dashboard. Find the Developer service tile and click the hamburger icon. In the dropdown menu click **Open Service Console**.
+Sign in to [https://cloud.oracle.com/sign-in](https://cloud.oracle.com/sign-in). Select your datacenter, then provide the identity domain and credentials. After a successful login, on your Dashboard, click on Developer Cloud Service name and then click **Open Service Console**.
 
-Log in to Oracle Developer Cloud Services and open your **springboot-sample** project.
+Log in to Oracle Developer Cloud Service and open your **springboot-sample** project.
 
 During the steps below you can play and improvise with Agile methodology in Developer Cloud Service according to your activities on the springboot-sample project.
 
-On your springboot-sample project, in the Project page, within the REPOSITORIES section, copy the URL of your springboot-sample.git repo from the HTTP text-box. Tip, it should be something similar to: `https://{yourDevCSProjectURI}/springboot-sample.git` 
+On your springboot-sample project, in the Project page, within the REPOSITORIES section, copy the URL of your springboot-sample.git repo from the HTTP text-box. It should be something similar to: `https://{yourDevCSProjectURI}/springboot-sample.git` 
 
 Clone your DevCS springboot-sample.git Git repository to your local machine by using your favourite Git tool. 
 Below is an example with Git bash:
@@ -37,13 +37,13 @@ Below is an example with Git bash:
 Make some changes in the code by using your favourite code editor (eg. Brackets, Atom, Notepad++ etc.). For example, edit the file:
 `src\main\webapp\WEB-INF\views\welcome.jsp`
 
-Push changes to the DevCS remote springboot-sample repo (master). 
+Push changes to the Developer Cloud Service remote springboot-sample repo (master). 
 Below is an example with Git bash:
 
 `git commit -am "Edited welcome.jsp page"`		
 `git push -u origin master`
 
-On your springboot-sample project in Developer Cloud Services, observe the results in Build and Deploy pages.
+On your springboot-sample project in Developer Cloud Service, observe the results in Build and Deploy pages.
 
 ---
 
