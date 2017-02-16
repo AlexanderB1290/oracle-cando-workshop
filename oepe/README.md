@@ -35,7 +35,7 @@ This tutorial demonstrates how to:
 
 ### Steps ###
 
-During the steps below you can play and improvise with Agile methodology in Developer Cloud Services according to your activities on the springboot-sample project.
+During the steps below you can play and improvise with Agile methodology in Developer Cloud Service according to your activities on the springboot-sample project.
 
 #### Configure Cloud Tools Plugin ####
 
@@ -144,13 +144,17 @@ Once the job is done change to the tab to Deploy and you can see that a new depl
 
 ![](images/21.png)
 
-Now check the changes of the home page of the application. Open the tree view myOracleCloud -> Applications -> springboot-demo. Right click on springboot-demo and select Open In Browser menu item.
+Now check the changes of the home page of the application. 
+There are many ways to open the application's home page:
++ from Application Container Cloud Service: on your Cloud Servies Dashboard click on the Application Container Cloud Service and then click Open Service Console. On the Application Container Cloud Service console,click Applicaitons and either select directly the URL under the name of your springboot-sample applicaiton, or click on your springboot-sample applicaiton name and then inside the app page, click its URL.
++ from Developer Cloud Service: navigate to Deploy page and under Deployments section, click the name of the deployed aplication (eg. springboot-sample).
++ from Eclipse: open the tree view myOracleCloud -> Applications -> springboot-demo. Right click on springboot-demo and select Open In Browser menu item.
 
-![](images/14.png)
 
-New browser (tab) is opened and you should see the changes (red text) on the application's home page.
+Choose your prefered way to open the application's home in the browser and review the changes you made.
 
 ![](images/22.png)
 
+---
 
-(Optional) As another example of CI/CD using Eclipse with Developer Cloud Service you can refer the tutorial [Developing Applications with Eclipse and Oracle Developer Cloud Service](http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/developer/UsingODCSwithOEPE/UsingODCSwithOEPE.html)
+(Additional info) The tutorial [Developing Applications with Eclipse and Oracle Developer Cloud Service](http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/developer/UsingODCSwithOEPE/UsingODCSwithOEPE.html) shows another example of using Eclipse with Developer Cloud Service.
