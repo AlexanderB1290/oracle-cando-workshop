@@ -134,6 +134,7 @@ To initiate a deployment to Application Container Cloud Service you can Start de
 
 ![alt text](images/14.deploy.start.png "Deployment Start")
 
+![alt text](images/16.deploy.ready.png "Deploy ready")
 
 ### Access the sample application ###
 
