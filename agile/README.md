@@ -43,9 +43,6 @@ To use Agile methodology in your springboot-sample project **follow the instruct
 
 ![](../images/Issues tab.png)
 
-Apply the instructions (for issues, tasks, board, sprints, users etc.) to match your springboot-sample project.
+Follow the instructions by adapting them to your springboot-sample project, ie. names of issues, tasks, board, sprints, users etc.
 
-
-
-
-
+-
