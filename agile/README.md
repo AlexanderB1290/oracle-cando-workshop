@@ -37,7 +37,7 @@ Each Sprint lists issues that are added to it. The Backlog section (the last sec
 - **Reports view** – select the Burndown Chart tab to display the amount of work left to do in a Sprint or use the Sprint Report tab to list open and completed Issues of a Sprint.
 
 
-To develop your project using Agile methodology **follow the instructions in the tutorial [Using Agile Methodology in Oracle Developer Cloud Service](http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/developer/AgileDevelopment/AgileDevelopment.html)** as to use Agile in your springboot-sample project you can start following the instruction directly from step 6 of section **`Creating a Project and Some Issues`** 
+To use Agile methodology in your springboot-sample project **follow the instructions in the tutorial [Using Agile Methodology in Oracle Developer Cloud Service](http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/developer/AgileDevelopment/AgileDevelopment.html)** as you can start following the instruction directly from step 6 of section **`Creating a Project and Some Issues`** 
 
 `6. Once project provisioning is completed, you are automatically taken to your new project’s Project page. Click the Issues tab.`
 
