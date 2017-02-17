@@ -4,7 +4,7 @@
 
 
 
-## Welcome to the Oracle CanDo Workshop ##
+### Welcome to the Oracle CanDo Workshop ###
 
 CanDo is designed to enable customers to get direct fundamental hands-on experience with Oracle Cloud in the area of Cloud Native and DevOps.
 
@@ -58,7 +58,6 @@ The content contains several independent modules that cover different aspects of
 + [Migrate Weblogic 10.3.6 (on premise) Application to Java Cloud Service with App2Cloud tool](app-2-cloud/README.md)
 
 
----
 ---
 
 
