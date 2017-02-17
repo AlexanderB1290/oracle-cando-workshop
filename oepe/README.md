@@ -20,7 +20,7 @@ If you are using the Eclipse IDE, download and install the Oracle Cloud Tools pl
 ### About this tutorial ###
 This tutorial demonstrates how to:
   
-+ Setup Eclipse IDE (Oracle Enterprise Plugin for Eclipse)
++ Do continuous build integration using Eclipse with Developer Cloud Service & Application Container Cloud Service
 
 ### Prerequisites ###
 
@@ -35,7 +35,7 @@ This tutorial demonstrates how to:
 
 ### Steps ###
 
-During the steps below you can play and improvise with Agile methodology in Developer Cloud Service according to your activities on the springboot-sample project.
+During the steps below you can apply Agile methodology in Developer Cloud Service according to your activities on the springboot-sample project.
 
 #### Configure Cloud Tools Plugin ####
 
