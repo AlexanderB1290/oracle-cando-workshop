@@ -29,7 +29,7 @@ Log in to Oracle Developer Cloud Services and open your springboot-sample projec
 
 To develop your project using Agile methodology, follow the instruction in the tutorial [Using Agile Methodology in Oracle Developer Cloud Service](http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/developer/AgileDevelopment/AgileDevelopment.html).
 
-- **NOTE:** Start following the instruction directly from section **Creating a Project and Some Issues**, ***point 6*** *(Once project provisioning is completed, you are automatically taken to your new project’s Project page. Click the Issues tab.)*
+- **NOTE:** TO use Agile in your springboot-sample project you can start following the instruction directly from section **Creating a Project and Some Issues**, ***point 6*** *(Once project provisioning is completed, you are automatically taken to your new project’s Project page. Click the Issues tab.)*
 
 You can play and improvise with Agile instruction (names of issues, tasks etc.) to match your springboot-sample project.
 
