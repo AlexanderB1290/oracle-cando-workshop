@@ -24,7 +24,7 @@ Sign in to [https://cloud.oracle.com/sign-in](https://cloud.oracle.com/sign-in).
 
 Log in to Oracle Developer Cloud Service and open your **springboot-sample** project.
 
-During the steps below you can play and improvise with Agile methodology in Developer Cloud Service according to your activities on the springboot-sample project.
+During the steps below you can apply Agile methodology in Developer Cloud Service according to your activities on the springboot-sample project.
 
 On your springboot-sample project, in the Project page, within the REPOSITORIES section, copy the URL of your springboot-sample.git repo from the HTTP text-box. It should be something similar to: `https://{yourDevCSProjectURI}/springboot-sample.git` 
 
