@@ -1,7 +1,8 @@
 ![](../common/images/customer.logo.png)
 ---
 # ORACLE CanDo Workshop #
------
+
+
 ## Using the Agile Methodology in Oracle Developer Cloud Service ##
 
 ### About this tutorial ###
