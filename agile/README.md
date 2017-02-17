@@ -41,13 +41,13 @@ Each Sprint lists issues that are added to it. The Backlog section (the last sec
 
 
 
-To develop your project using Agile methodology, **follow the instruction in the tutorial [Using Agile Methodology in Oracle Developer Cloud Service](http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/developer/AgileDevelopment/AgileDevelopment.html)** as to use Agile in your springboot-sample project you can start following the instruction directly from section **`Creating a Project and Some Issues`**, point 6: 
+To develop your project using Agile methodology, **follow the instructions in the tutorial [Using Agile Methodology in Oracle Developer Cloud Service](http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/developer/AgileDevelopment/AgileDevelopment.html)** as to use Agile in your springboot-sample project you can start following the instruction directly from step 6 of section **`Creating a Project and Some Issues`** 
 
 `6. Once project provisioning is completed, you are automatically taken to your new project’s Project page. Click the Issues tab.`
 
 ![](../images/Issues tab.png)
 
-Apply Agile instruction (names of issues, tasks etc.) to match your springboot-sample project.
+Apply the instructions about issues, tasks, board, sprints, users etc. to match your springboot-sample project.
 
 
 
