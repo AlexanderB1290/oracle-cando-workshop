@@ -18,7 +18,11 @@ This tutorial shows how to use a Git client with Oracle Developer Cloud Service 
 
 ----
 
-#### Continuous build integration using Git client with Oracle Developer Cloud Service and Application Container Cloud Service ####
+### Continuous build integration using Git client with Oracle Developer Cloud Service and Application Container Cloud Service ###
+
+-
+
+#### JSE microservice sample ####
 
 Sign in to [https://cloud.oracle.com/sign-in](https://cloud.oracle.com/sign-in). Select your datacenter, then provide the identity domain and credentials. After a successful login, on your Dashboard, click on Developer Cloud Service name and then click **Open Service Console**.
 
@@ -47,8 +51,53 @@ Below is an example with Git bash:
 
 On your springboot-sample project in Developer Cloud Service, observe the results in Build and Deploy pages.
 
----
+For additional samples about JSE microservices refer the Tutorials section on the Oracle Application Container Cloud Service Documentation [Create Sample Java SE Applications](http://docs.oracle.com/en/cloud/paas/app-container-cloud/create-sample-java-se-applications.html)
 
-For additional samples about JSE, Node.JS and PHP microservices, refer the Tutorials section on the [Oracle Application Container Cloud Service Documentation](http://docs.oracle.com/en/cloud/paas/app-container-cloud/index.html)
+-
 
+#### Node.js microservice sample ####
 
+Sign in to [https://cloud.oracle.com/sign-in](https://cloud.oracle.com/sign-in). Select your datacenter, then provide the identity domain and credentials. After a successful login, on your Dashboard, click on Developer Cloud Service name and then click **Open Service Console**.
+
+Log in to Oracle Developer Cloud Service and create a new **node-sample** project based on Initial Repository.
+
+Clone your DevCS **node-sample.git** repository to your local machine by using your favourite Git tool. 
+
+Access the Tutorials section on the Oracle Application Container Cloud Service Documentation [Create Sample Node.js Applications](http://docs.oracle.com/en/cloud/paas/app-container-cloud/create-sample-node.js-applications.html)
+
+For example, select the Tutorial [Developing a RESTful Node.js and HTML5 application to Oracle Application Container Cloud Service](http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/apaas/node-basicRest/nodecloud-REST.html#overview) and either:
++ start developing the RESTful project source code in your local Git repo
++ or download the RESTful-project.zip  with the completed project and unzip it into your local Git repo
+
+In you local Git, commit and push the changes to the remote DevCS **node-sample.git**. 
+In Dev CS, as you did for the *springboot-sample* project, do the Build. *Tip:* Into the Build Steps tab, click Add Build Step, and select `Execute shell`. For Command enter: **npm install**. Into the Post Build tab, check Archive the artifacts and enter `**/target/*` for Files to Archive. 
+Then do the Deploy on ACCS and access the app on ACCS.
+
+-
+
+#### PHP microservice sample ####
+
+Sign in to [https://cloud.oracle.com/sign-in](https://cloud.oracle.com/sign-in). Select your datacenter, then provide the identity domain and credentials. After a successful login, on your Dashboard, click on Developer Cloud Service name and then click **Open Service Console**.
+
+Log in to Oracle Developer Cloud Service and create a new **php-sample** project based on Initial Repository.
+
+Clone your DevCS **php-sample.git** repository to your local machine by using your favourite Git tool. 
+
+Access the Tutorials section on the Oracle Application Container Cloud Service Documentation [Create Sample PHP Applications](http://docs.oracle.com/en/cloud/paas/app-container-cloud/create-sample-php-applications.html)
+
+For example, select the Tutorial [Oracle Application Container Cloud Service: Building a RESTful API with PHP](http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/apaas/php/php-employees-service/php-employees-service.html) and either:
++ start developing the PHP REST API project source code in your local Git repo
++ or download the phpEmployeeAPI.zip with the completed project and unzip it into your local Git repo
+
+In you local Git, commit and push the changes to the remote DevCS **php-sample.git**. 
+
+In Dev CS, as you did for the *springboot-sample* project, do the Build.
+*Tip:* Into the Build Steps tab, click Add Build Step, and select `Execute shell`. For Command enter: ** zip -j php-sample.zip **. Into the Post Build tab, check Archive the artifacts and enter `*.zip` for Files to Archive. 
+
+On the [Create Sample PHP Applications](http://docs.oracle.com/en/cloud/paas/app-container-cloud/create-sample-php-applications.html) page, continue with the section `Setting Up the Database and the Objects`
+
+Then deploy the **php-sample** on ACCS either:
++ by using Deploy on DevCS 
++ or by using the ACCS UI console (ie. select PHP applicaiton and upload the php-sample.zip artifact)
+
+Then back on the [Create Sample PHP Applications](http://docs.oracle.com/en/cloud/paas/app-container-cloud/create-sample-php-applications.html) page, continue with the section `Adding the Database Service Binding' and `Testing the REST Service`.
