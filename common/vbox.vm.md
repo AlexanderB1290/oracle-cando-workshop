@@ -2,8 +2,8 @@
 
 **Oracle Virtual Box image**
 
-Some of the Labs are supported by an Oracle Virtual Box image. 
-Contact your local oracle representative or george.moykin@oracle.com to obtain a copy of the Oracle CanDo VBox image distributive.
+Some of the Labs are supported by the Oracle Virtual Box image [cando-vbox](https://drive.google.com/drive/folders/0B1e5RMycoBxhMDJ1dHBNZk5DUUE). 
+
 
 **Eclipse IDE with Oracle Cloud Tools plugin**
 
