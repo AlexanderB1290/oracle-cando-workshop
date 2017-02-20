@@ -30,6 +30,7 @@ On your springboot-sample project, in the Project page, within the REPOSITORIES 
 
 Clone your DevCS springboot-sample.git repository to your local machine by using your favourite Git tool. 
 For example, you can download and install [Git](https://git-scm.com/downloads)
+
 Below is an example with Git bash:
 
 `cd {path_to_your_local_Git_repo_folder}`		
