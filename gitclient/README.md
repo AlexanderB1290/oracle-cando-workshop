@@ -100,4 +100,4 @@ Then deploy the **php-sample** on ACCS either:
 + by using Deploy on DevCS 
 + or by using the ACCS UI console (ie. select PHP applicaiton and upload the php-sample.zip artifact)
 
-Then back on the [Create Sample PHP Applications](http://docs.oracle.com/en/cloud/paas/app-container-cloud/create-sample-php-applications.html) page, continue with the section `Adding the Database Service Binding' and `Testing the REST Service`.
+Then back on the [Create Sample PHP Applications](http://docs.oracle.com/en/cloud/paas/app-container-cloud/create-sample-php-applications.html) page, continue with the section `Adding the Database Service Binding` and `Testing the REST Service`.
