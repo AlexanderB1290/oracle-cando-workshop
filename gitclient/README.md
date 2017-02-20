@@ -94,10 +94,10 @@ In you local Git, commit and push the changes to the remote DevCS **php-sample.g
 In Dev CS, as you did for the *springboot-sample* project, do the Build.
 *Tip:* Into the Build Steps tab, click Add Build Step, and select `Execute shell`. For Command enter: ** zip -j php-sample.zip **. Into the Post Build tab, check Archive the artifacts and enter `*.zip` for Files to Archive. 
 
-On the [Create Sample PHP Applications](http://docs.oracle.com/en/cloud/paas/app-container-cloud/create-sample-php-applications.html) page, continue with the section `Setting Up the Database and the Objects`
+On the [Oracle Application Container Cloud Service: Building a RESTful API with PHP](http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/apaas/php/php-employees-service/php-employees-service.html) page, continue with the section `Setting Up the Database and the Objects`
 
 Then deploy the **php-sample** on ACCS either:
 + by using Deploy on DevCS 
 + or by using the ACCS UI console (ie. select PHP applicaiton and upload the php-sample.zip artifact)
 
-Then back on the [Create Sample PHP Applications](http://docs.oracle.com/en/cloud/paas/app-container-cloud/create-sample-php-applications.html) page, continue with the section `Adding the Database Service Binding` and `Testing the REST Service`.
+Then back on the [Oracle Application Container Cloud Service: Building a RESTful API with PHP](http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/apaas/php/php-employees-service/php-employees-service.html) page, continue with the section `Adding the Database Service Binding` and `Testing the REST Service`.
