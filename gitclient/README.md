@@ -28,7 +28,8 @@ During the steps below you can apply Agile methodology in Developer Cloud Servic
 
 On your springboot-sample project, in the Project page, within the REPOSITORIES section, copy the URL of your springboot-sample.git repo from the HTTP text-box. It should be something similar to: `https://{yourDevCSProjectURI}/springboot-sample.git` 
 
-Clone your DevCS springboot-sample.git Git repository to your local machine by using your favourite Git tool. 
+Clone your DevCS springboot-sample.git repository to your local machine by using your favourite Git tool. 
+For example, you can download and install [Git](https://git-scm.com/downloads)
 Below is an example with Git bash:
 
 `cd {path_to_your_local_Git_repo_folder}`		
