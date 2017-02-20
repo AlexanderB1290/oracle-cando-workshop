@@ -47,7 +47,7 @@ With the help of the Oracle documentation [Creating an Oracle Java Cloud Service
  - **Password:** WebLogic administrator's password. Don't forget to note the provided password.
  - **Enable access to Administration Consoles:** check this to get access to the Admin console.
  - **Deploy Sample Application:** check it to deploy the sample application. It can be useful to test accessibility (correct LB configuration, etc.) of the Java Cloud Service Instance.
- - *For this service you do not create and configure a Coherence Data Tierjust to save time and resources.*
+ - *For this service you do not create and configure a Coherence Data Tier just to save time and resources.*
  - **Database Configuration** for For Oracle Required Schema
 	 - **Name:** Database Cloud Service name to store WebLogic repository data. Select from the list your database service instance cteated during the Database Cloud Service creation
 	 - **PDB Name:** pluggable database service identifier of the Database Cloud Service instance which will be used to store repository schema. If you have choosen default (PDB1) during Database Cloud Service creation then leave the default here too
@@ -63,4 +63,8 @@ The final page is the summary page about the configuration before submit the ins
 
 When the request has been accepted the Java Cloud Service Console page appears and shows the new instance. The instance now is in Maintenance (Progress) mode. Click ***In Progress*** link to get more information about the status.
 
+The Java Cloud Service creation operation may take 30-40 min. to complete.
+
+When the new Java Cloud Service instance is created, click on the instance name.
+The Oracle Java Cloud Service Instance page is displayed with the Overview tile is in focus, displaying detailed information about the service instance.
 
