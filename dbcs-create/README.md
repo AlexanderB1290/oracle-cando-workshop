@@ -21,6 +21,10 @@ This tutorial demonstrates how to:
 
 ###Create a Database Cloud Service instance###
 
+[Sign in](../common/sign.in.to.oracle.cloud.md) to [https://cloud.oracle.com/sign-in](https://cloud.oracle.com/sign-in). On the dashboard open the Database Cloud Service Console.
+
+![](images/01.png)
+
 With the help of the Oracle documentation [Creating a Database Deployment](http://docs.oracle.com/en/cloud/paas/database-dbaas-cloud/csdbi/create-db-deployment.html), provision a new Database service instance with the following details below:
 
 *NOTE: feel free to modify the details by will, but don't forget to note and remember your custom settings!*

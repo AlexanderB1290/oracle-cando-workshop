@@ -20,12 +20,20 @@ This tutorial demonstrates how to:
 
 ###Create a Java Cloud Service instance###
 
+[Sign in](../common/sign.in.to.oracle.cloud.md) to [https://cloud.oracle.com/sign-in](https://cloud.oracle.com/sign-in). On the Dashboard, open the Java Cloud Service Console.
+
+![](images/10.dashboard.png)
+
+On the Oracle Java Cloud Service page, click the `Services` link.
+On the  Services page, click the button **Create Service** and select **Java Cloud Service**.
+
+![](images/CreateJCS_01.png)
+
 With the help of the Oracle documentation [Creating an Oracle Java Cloud Service Instance](http://docs.oracle.com/en/cloud/paas/java-cloud/jscug/creating-oracle-java-cloud-service-instance.html), provision a Java Cloud Service instance with the following details below:
 
 *NOTE: feel free to modify the details by will, but don't forget to note and remember your custom settings!*
 
  - **Service Name:**  the name of your service instance, e.g. techco
-Select subscription type. 
  - **Description:** (Optional) Enter a short description of the Oracle Java Cloud Service instance
  - **Service Level:** Oracle Java Cloud Service
  - **Metering Frequency:** Monthly
