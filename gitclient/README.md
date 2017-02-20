@@ -70,7 +70,8 @@ For example, select the Tutorial [Developing a RESTful Node.js and HTML5 applica
 + or download the RESTful-project.zip  with the completed project and unzip it into your local Git repo
 
 In you local Git, commit and push the changes to the remote DevCS **node-sample.git**. 
-In Dev CS, as you did for the *springboot-sample* project, do the Build. *Tip:* Into the Build Steps tab, click Add Build Step, and select `Execute shell`. For Command enter: `npm install`. Into the Post Build tab, check Archive the artifacts and enter `**/target/*` for Files to Archive. 
+In Dev CS, as you did for the *springboot-sample* project, do the Build. 
+*Tip:* Into the Build Steps tab, click Add Build Step, and select `Execute shell`. For Command enter `npm install`. Into the Post Build tab, check Archive the artifacts and enter `**/target/*` for Files to Archive. 
 Then do the Deploy on ACCS and access the app on ACCS.
 
 -
@@ -92,7 +93,7 @@ For example, select the Tutorial [Oracle Application Container Cloud Service: Bu
 In you local Git, commit and push the changes to the remote DevCS **php-sample.git**. 
 
 In Dev CS, as you did for the *springboot-sample* project, do the Build.
-*Tip:* Into the Build Steps tab, click Add Build Step, and select `Execute shell`. For Command enter: ** zip -j php-sample.zip **. Into the Post Build tab, check Archive the artifacts and enter `*.zip` for Files to Archive. 
+*Tip:* Into the Build Steps tab, click Add Build Step, and select `Execute shell`. For Command enter: `zip -j php-sample.zip`. Into the Post Build tab, check Archive the artifacts and enter `*.zip` for Files to Archive. 
 
 On the [Oracle Application Container Cloud Service: Building a RESTful API with PHP](http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/apaas/php/php-employees-service/php-employees-service.html) page, continue with the section `Setting Up the Database and the Objects`
 
